@@ -4,7 +4,6 @@
        width="800" 
        style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);"/>
   <p style="font-size:18px; color:#555; margin-top:10px;">
-    SpeedRadius - API Based PHP Mikrotik Billing System
   </p>
 </div>
 
