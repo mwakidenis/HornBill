@@ -11,8 +11,9 @@ HornBill is a modern **Mikrotik billing system** featuring **payment gateway** i
 
 ## Admin Dashboard
 <img width="1920" height="1080" alt="Screenshot 2026-01-30 194238" src="https://github.com/user-attachments/assets/b98091a4-9c48-4455-8c8f-6078d02fe845" /> <br>
-## Customer Activity Monitor
-<img width="1920" height="1080" alt="Screenshot 2026-01-30 194102" src="https://github.com/user-attachments/assets/71be1a99-64a7-47db-857e-1b1bb3c1deb5" /> <br> 
+## Talksasa SMS Gateway  
+<img width="1920" height="1080" alt="Screenshot 2026-01-31 025330" src="https://github.com/user-attachments/assets/bfc2b89f-176c-4515-ba35-ff60115ca21e" /> <br>
+
 ## System Users
 <img width="1920" height="1080" alt="Screenshot 2026-01-31 011045" src="https://github.com/user-attachments/assets/e4efedc2-fb93-4a00-b27f-ca3aa0b469de" /> <br>
 ## Expired Hotspot Customers
