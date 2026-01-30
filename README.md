@@ -25,7 +25,7 @@ HornBill is a modern **Mikrotik billing system** featuring **payment gateway** i
 <img width="1920" height="1080" alt="Screenshot 2026-01-30 224742" src="https://github.com/user-attachments/assets/612a0585-cd37-403b-aad5-15eb65e6dd3a" />
 
 ## Featured
-- Customer and Adnin Dashboard
+- Customer and Admin Dashboard
 - Voucher Generator and Print  
 - [Freeradius Integration](https://github.com/hotspotbilling/phpnuxbill/wiki/HornBill)  
 - Self Registration for users  
