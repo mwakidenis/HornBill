@@ -7,7 +7,7 @@
   </p>
 </div>
 
-HornBill is a modern **Mikrotik billing system** featuring **payment gateway** integration, **SMS** login **validation**, **WhatsApp notifications** to consumers, **Telegram notifications** to admins, a user-friendly interface, and **powerful monitoring and analytics** features, built as an evolved framework inspired by the PHPNuxBill.
+HornBill is a modern **Mikrotik billing system** featuring **payment gateway** integration, **SMS** login **validation**, **WhatsApp notifications** to consumers, **Telegram notifications** to admins, a user-friendly interface, and **powerful monitoring and analytics** features, built as an evolved system inspired by the NuxBill.
 
 ## Admin Dashboard
 <img width="1920" height="1080" alt="Screenshot 2026-01-30 194238" src="https://github.com/user-attachments/assets/b98091a4-9c48-4455-8c8f-6078d02fe845" /> <br>
