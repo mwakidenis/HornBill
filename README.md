@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="hornbilll.png" alt="HornBill Logo" width="200" />
+  <img src="public/hornbilll.png" alt="HornBill Logo" width="200" />
 </div>
 
 
