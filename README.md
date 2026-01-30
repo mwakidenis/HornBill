@@ -1,88 +1,112 @@
+<div align="center" style="margin-bottom: 30px;">
+  <img src="https://github.com/user-attachments/assets/9b9634a3-29be-4fb0-bd33-ce72fcd423c6" 
+       alt="HornBill Logo" 
+       width="800" 
+       style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);"/>
+  <p style="font-size:18px; color:#555; margin-top:10px;">
+    SpeedRadius - API Based PHP Mikrotik Billing System
+  </p>
+</div>
 
-<img width="1536" height="424" alt="hornbill" src="https://github.com/user-attachments/assets/9b9634a3-29be-4fb0-bd33-ce72fcd423c6" />
+---
 
-## Feature
+## Features
 
-- Voucher Generator and Print
-- [Freeradius](https://github.com/hotspotbilling/phpnuxbill/wiki/HornBill)
-- Self registration
-- User Balance
-- Auto Renewal Package using Balance
-- Multi Router Mikrotik
-- Hotspot & PPPOE
-- Easy Installation
-- Multi Language
-- Payment Gateway
-- SMS validation for login
-- Whatsapp Notification to Consumer
-- Telegram Notification for Admin
+- Voucher Generator and Print  
+- [Freeradius Integration](https://github.com/hotspotbilling/phpnuxbill/wiki/HornBill)  
+- Self Registration for users  
+- User Balance Management  
+- Auto-Renewal Packages using Balance  
+- Multi-Router Mikrotik Support  
+- Hotspot & PPPOE Management  
+- Easy Installation Process  
+- Multi-Language Support  
+- Payment Gateway Integration  
+- SMS Validation for Login  
+- WhatsApp Notifications to Consumers  
+- Telegram Notifications for Admins  
 
-See [How it Works ](https://github.com/hotspotbilling/phpnuxbill/wiki/How-It-Works---Cara-kerja)
+See [How it Works](https://github.com/hotspotbilling/phpnuxbill/wiki/How-It-Works---Cara-kerja) for detailed workflow.
 
-## Payment Gateway And Plugin
+---
 
-- Mpesa Paybill C2B
-- Mpesa Till
-- Paystack
-- BANK
+## Payment Gateways & Plugins
 
-You can download payment gateway and Plugin from Plugin Manager
+- Mpesa Paybill C2B  
+- Mpesa Till  
+- Paystack  
+- Bank Transfers  
+
+Plugins can be downloaded from the **Plugin Manager** within the system.
+
+---
 
 ## System Requirements
 
-Most current web servers with PHP & MySQL installed will be capable of running PHPNuxBill
+Most modern web servers with **PHP & MySQL** are capable of running PHPNuxBill.  
 
-Minimum Requirements
+**Minimum Requirements:**  
 
-- Linux or Windows OS
-- Minimum PHP Version 7.4
-- Both PDO & MySQLi Support
-- PHP-GD2 Image Library
-- PHP-CURL
-- PHP-ZIP
-- PHP-Mbstring
-- MySQL Version 4.1.x and above
+- Linux or Windows OS  
+- PHP Version 7.4 or higher  
+- PDO & MySQLi Support  
+- PHP-GD2 Image Library  
+- PHP-CURL  
+- PHP-ZIP  
+- PHP-Mbstring  
+- MySQL Version 4.1.x and above  
 
-can be Installed in Raspberry Pi Device.
+> ⚠️ Note: Can also be installed on a Raspberry Pi. Cron jobs are easier to manage on Linux than Windows.
 
-The problem with windows is hard to set cronjob, better Linux
+---
 
 ## Changelog
 
-[CHANGELOG.md](CHANGELOG.md)
+See the [CHANGELOG.md](CHANGELOG.md) for version history.
+
+---
 
 ## Installation
 
-[Installation instructions](https://github.com/phpnuxbill/NetBill/wiki)
+Follow the [Installation Instructions](https://github.com/phpnuxbill/NetBill/wiki) to set up the system.
 
+---
 
 ## Technical Support
 
-**Disclaimer:** Paid Software Rental – No Warranty
+**Disclaimer:** Paid Software Rental – No Warranty  
 
-This software is **not free** and is **not open source**. It is provided as a rental, not for sale, and comes **without any warranty**.
+This software is **not free** and is **not open-source**. It is provided as a **rental**, not for sale, and comes **without any warranty**.  
 
-While the software may be available for rent, **technical support is not included**. Technical support services are available starting from **Ksh 500 or $5.**
+Technical support is **not included** with rental but is available starting from **Ksh 500 or $5**.  
 
-Please note: If you contact me for technical support, a fee will be required before assistance is provided.
+Please note: A fee is required before assistance is provided.  
 
+Contact for inquiries: [Website](https://mwakidenis.pages.dev/)
 
-Contact me at [website](https://mwakidenis.pages.dev/)
+---
 
 ## License
 
-GNU General Public License version 2 or later
+GNU General Public License version 2 or later.  
+See [LICENSE](LICENSE) for details.
 
-see [LICENSE](LICENSE) file
+---
 
+## Donations
 
-## Donate to mwakidenis
+Support the project:  
 
-github: mwakidenis
+- GitHub: [mwakidenis](https://github.com/mwakidenis)  
+- Mpesa: +254 798 750 585  
 
-Mpesa : +254 798 750 585
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/ibnux)
+
+---
 
 ## Thanks
-We appreciate all people who are participating in this project.
 
+We appreciate all contributors and users participating in this project.  
+
+---
 
