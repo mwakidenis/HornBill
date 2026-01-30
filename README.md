@@ -9,8 +9,13 @@
 
 ## Features
 <img width="1920" height="1080" alt="Screenshot 2026-01-30 194238" src="https://github.com/user-attachments/assets/8d43cd9b-e119-41fb-8e29-21fbda44e3d7" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-30 194102" src="https://github.com/user-attachments/assets/197db4e3-c6a3-4178-86f4-3636975731ff" />
+<img width="1920" height="1080" alt="shot1" src="https://github.com/user-attachments/assets/4c080901-cecf-4374-971c-35d31a2ec1f2" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-31 011045" src="https://github.com/user-attachments/assets/a949a8dd-fa91-4bb1-9ba9-d6e11553ba72" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-31 011407" src="https://github.com/user-attachments/assets/941a53e9-7eee-4227-8ae7-a9665e6e1184" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-30 224742" src="https://github.com/user-attachments/assets/612a0585-cd37-403b-aad5-15eb65e6dd3a" />
 
-## 
+## Featured
 - Voucher Generator and Print  
 - [Freeradius Integration](https://github.com/hotspotbilling/phpnuxbill/wiki/HornBill)  
 - Self Registration for users  
