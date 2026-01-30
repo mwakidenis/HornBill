@@ -13,7 +13,9 @@ HornBill is a modern **Mikrotik billing system** featuring **payment gateway** i
 <img width="1920" height="1080" alt="Screenshot 2026-01-30 194238" src="https://github.com/user-attachments/assets/b98091a4-9c48-4455-8c8f-6078d02fe845" /> <br>
 ## Customer Activity Monitor
 <img width="1920" height="1080" alt="Screenshot 2026-01-30 194102" src="https://github.com/user-attachments/assets/71be1a99-64a7-47db-857e-1b1bb3c1deb5" /> <br>
+## Gateways
 <img width="1920" height="1080" alt="Screenshot 2026-01-31 011407" src="https://github.com/user-attachments/assets/c67c9e5f-db65-491f-811e-379043f5c5fc" /> <br>
+## mikrotik monitor
 <img width="1920" height="1080" alt="Screenshot 2026-01-31 011045" src="https://github.com/user-attachments/assets/a949a8dd-fa91-4bb1-9ba9-d6e11553ba72" /> <br>
 <img width="1920" height="1080" alt="Screenshot 2026-01-31 011407" src="https://github.com/user-attachments/assets/941a53e9-7eee-4227-8ae7-a9665e6e1184" /> <br>
 ## Easy installer
