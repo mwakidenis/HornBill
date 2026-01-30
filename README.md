@@ -7,7 +7,6 @@
   </p>
 </div>
 
----
 
 ## Features
 
@@ -27,7 +26,6 @@
 
 See [How it Works](https://github.com/hotspotbilling/phpnuxbill/wiki/How-It-Works---Cara-kerja) for detailed workflow.
 
----
 
 ## Payment Gateways & Plugins
 
@@ -38,7 +36,6 @@ See [How it Works](https://github.com/hotspotbilling/phpnuxbill/wiki/How-It-Work
 
 Plugins can be downloaded from the **Plugin Manager** within the system.
 
----
 
 ## System Requirements
 
@@ -57,19 +54,16 @@ Most modern web servers with **PHP & MySQL** are capable of running PHPNuxBill.
 
 > ⚠️ Note: Can also be installed on a Raspberry Pi. Cron jobs are easier to manage on Linux than Windows.
 
----
 
 ## Changelog
 
 See the [CHANGELOG.md](CHANGELOG.md) for version history.
 
----
 
 ## Installation
 
 Follow the [Installation Instructions](https://github.com/phpnuxbill/NetBill/wiki) to set up the system.
 
----
 
 ## Technical Support
 
@@ -83,25 +77,22 @@ Please note: A fee is required before assistance is provided.
 
 Contact for inquiries: [Website](https://mwakidenis.pages.dev/)
 
----
-
 ## License
 
 GNU General Public License version 2 or later.  
 See [LICENSE](LICENSE) for details.
 
----
 
 ## Donations
 
 Support the project:
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-black?logo=github&logoColor=white)](https://github.com/sponsors/mwakidenis)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-ff6f61?logo=github&logoColor=white)](https://github.com/sponsors/mwakidenis)
 
 - GitHub: [mwakidenis](https://github.com/mwakidenis)  
 - Mpesa: +254 798 750 585
 
----
+
 
 ## Thanks
 
