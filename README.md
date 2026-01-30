@@ -1,7 +1,5 @@
-<div align="center">
-  <img src="public/hornbilll.png" alt="HornBill Logo" width="200" />
-</div>
 
+<img width="1536" height="424" alt="hornbill" src="https://github.com/user-attachments/assets/9b9634a3-29be-4fb0-bd33-ce72fcd423c6" />
 
 ## Feature
 
