@@ -7,9 +7,10 @@
   </p>
 </div>
 
-
 ## Features
+<img width="1920" height="1080" alt="Screenshot 2026-01-30 194238" src="https://github.com/user-attachments/assets/8d43cd9b-e119-41fb-8e29-21fbda44e3d7" />
 
+## 
 - Voucher Generator and Print  
 - [Freeradius Integration](https://github.com/hotspotbilling/phpnuxbill/wiki/HornBill)  
 - Self Registration for users  
