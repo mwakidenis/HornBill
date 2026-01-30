@@ -94,12 +94,12 @@ See [LICENSE](LICENSE) for details.
 
 ## Donations
 
-Support the project:  
+Support the project:
+
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-black?logo=github&logoColor=white)](https://github.com/sponsors/mwakidenis)
 
 - GitHub: [mwakidenis](https://github.com/mwakidenis)  
-- Mpesa: +254 798 750 585  
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/ibnux)
+- Mpesa: +254 798 750 585
 
 ---
 
