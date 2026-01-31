@@ -42,21 +42,6 @@ HornBill is an independent **MikroTik billing system** project inspired by iBNuX
 
 See [How it Works](https://github.com/hotspotbilling/phpnuxbill/wiki/How-It-Works---Cara-kerja) for detailed workflow.
 
-User visits website (frontend)
-      ↓
-Sign up / create account
-      ↓
-Select hotspot subscription plan
-      ↓
-Pay via M-Pesa / payment gateway
-      ↓
-HornBill API creates user & voucher automatically 
-      ↓
-MikroTik Hotspot account activated
-      ↓
-User can log in to hotspot with voucher
-
-
 ## Payment Gateways & Plugins
 
 - Mpesa Paybill C2B  
