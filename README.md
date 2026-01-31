@@ -86,7 +86,7 @@ Follow the [Installation Instructions](https://github.com/phpnuxbill/NetBill/wik
 
 **Disclaimer:** Paid Software Rental – No Warranty  
 
-This software is **not free** and is **not open-source**. It is provided as a **rental**, not for sale, and comes **without any warranty**.  
+This software is **NPT FREE** and is **NOT OPEN-SOURCE**. It is provided as a **rental**, **NOT FOR SALE**, and **comes without any warranty**.  
 
 Technical support is **not included** with rental but is available starting from **Ksh 500 or $5**.  
 
