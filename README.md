@@ -56,7 +56,7 @@ Plugins can be downloaded from the **Plugin Manager** within the system.
 
 ## System Requirements
 
-Most modern web servers with **PHP & MySQL** are capable of running PHPNuxBill.  
+Most modern web servers with **PHP & MySQL** are capable of running HornBill.  
 
 **Minimum Requirements:**  
 
