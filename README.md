@@ -124,4 +124,4 @@ a.n Ibnu Maksum
 We appreciate all contributors and users participating in this project.  
 
 ---
-Made with ❤️  by mwakidenis — For the Kenyan Market 🇰🇪
+Made with ❤️  by **mwakidenis** — For the Kenyan Market 🇰🇪
