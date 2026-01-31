@@ -106,7 +106,7 @@ Support the project:
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-ff6f61?logo=github&logoColor=white)](https://github.com/sponsors/mwakidenis)
   
 - Mpesa: +254 798 750 585
-- 
+  
 ## Donate to ibnux
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/ibnux)
