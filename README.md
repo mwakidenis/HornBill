@@ -95,8 +95,9 @@ Contact for inquiries: [Website](https://mwakidenis.pages.dev/)
 
 ## License
 
-GNU General Public License version 2 or later.  
-See [LICENSE](LICENSE) for details.
+This project is licensed under the GNU General Public License v2.0 (GPL-2.0).
+
+This project includes source code adapted from PHPNuxBill.
 
 
 ## Donations
